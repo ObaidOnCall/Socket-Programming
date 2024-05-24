@@ -1,9 +1,6 @@
 package cok.hour;
 
-import java.io.BufferedinStream;
-import java.io.DataInputStream;
-import java.io.IOException;
-import java.io.InputStream;
+import java.io.*;
 import java.net.*;
 
 
